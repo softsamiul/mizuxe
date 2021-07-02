@@ -44,6 +44,12 @@
 #meet-the-authors .card:hover i{
 	color:#fff;
 }
+.nav-item {
+    margin-right: 25px;
+}
+.nav-item:last-child{
+	margin-right: 0px;
+}
 @media (max-width:576px){
 	#showcase h1{
 		font-size:3.4rem
