@@ -1,4 +1,4 @@
-Mizuxe — Static Landing Page Design
+Mizuxe — Responsive Static Landing Page Design
 
 Used Technologies: HTML 5, CSS3, Bootstrap
 
